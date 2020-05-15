@@ -4,10 +4,7 @@
   "description": "Discord Utility Bot",
   "main": "build/main.js",
   "dependencies": {
-    "axios": "^0.19.2",
     "discord.js": "^12.2.0",
-    "jsdom": "^16.2.2",
-    "puppeteer": "^3.0.2",
     "ts-node": "^8.10.1"
   },
   "devDependencies": {
